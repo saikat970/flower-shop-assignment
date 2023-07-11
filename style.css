@@ -36,7 +36,41 @@
 
 /* Feature style start */
 
-.feature {
+
+
+/* Feature style start */
+
+/* hot style start */
+
+.hot-deal{
+    display: flex;
+    padding: 50px;
+}
+
+.text-h{
+    margin-left: 200px;
+    margin-top: 50px;
+}
+
+.h-img{
+    margin-left: 300px;
+}
+.btn{
+    background-color: blue;
+    color: white;
+    border: 0;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+
+
+/* hot style  end */
+
+
+/* Instagram style start */
+
+.Instagram {
     margin: 0 50px;
     margin-top: 0;
     background-color: gray;
@@ -52,5 +86,5 @@
     padding: 30px;
 }
 
-/* Feature style end */
+/* Instagram style end */
 
