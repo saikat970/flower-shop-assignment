@@ -1,0 +1,28 @@
+/* header style  start */
+.header{
+    background-color: skyblue;
+}
+
+.banner{
+    padding: 40px 30px 30px 130px;
+    display: flex;
+}
+
+.title {
+    margin-top: 100px;
+}
+
+.banner h2 {
+    font-size:x-large;
+}
+
+img{
+    margin-left: 100px;
+}
+
+/* header style end */
+
+/* Feature style start */
+
+
+/* Feature style end */
