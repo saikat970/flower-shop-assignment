@@ -88,3 +88,21 @@
 
 /* Instagram style end */
 
+.get-deal{
+    height: 200px;
+    background-image: url("Rectangle 9.jpg");
+    text-align: center;
+}
+
+.btn-1{
+    background-color: blue;
+    color: white;
+    border: 0;
+    padding: 5px;
+}
+
+footer{
+    background-color: black;
+    height: 200px;
+}
+
