@@ -71,7 +71,7 @@
 /* Instagram style start */
 
 .Instagram {
-    margin: 0 50px;
+    margin: 0 100px;
     margin-top: 0;
     background-color: gray;
     padding: 20px;
@@ -82,7 +82,7 @@
 }
 
 .imgs{
-    margin-left: 200px;
+    margin-left: 115px;
     padding: 30px;
 }
 
@@ -92,6 +92,18 @@
     height: 200px;
     background-image: url("Rectangle 9.jpg");
     text-align: center;
+    justify-content: center;
+}
+
+.get-deal > p{
+    margin-bottom: 30px;
+}
+
+input{
+    width: 300px;
+    height: 30px;
+    border-radius: 5px;
+    border: 0;
 }
 
 .btn-1{
@@ -99,10 +111,31 @@
     color: white;
     border: 0;
     padding: 5px;
+    height: 35px;
+    width: 80px;
+    border-radius: 5px;
 }
+
+
 
 footer{
     background-color: black;
-    height: 200px;
+    height: 300px;
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+
+.f-c{
+    color: green;
+}
+
+.f-l-t{
+    color: gray;
+}
+
+.text-f{
+    padding-top: 50px;
+    
 }
 
