@@ -28,8 +28,8 @@
     font-size:x-large;
 }
 
-.img{
-    margin-left: 100px;
+img{
+    margin-right: 50px;
 }
 
 /* header style end */
@@ -75,27 +75,39 @@
     margin-top: 0;
     background-color: gray;
     padding: 20px;
+    margin-bottom: 0;
 }
 
 .text{
     text-align: center;
+    color: white;
 }
 
 .imgs{
-    margin-left: 115px;
+    margin-left: 20px;
     padding: 30px;
+}
+
+.imgs, img{
+    margin-left: 12px;
+    display: flex;
 }
 
 /* Instagram style end */
 
+/* get-deal style start */
+
 .get-deal{
     height: 200px;
-    background-image: url("Rectangle 9.jpg");
+    background-image: url("Rectangle 9.png");
+    background-size: cover;
     text-align: center;
     justify-content: center;
+    margin: 0 100px;
 }
 
 .get-deal > p{
+
     margin-bottom: 30px;
 }
 
@@ -116,7 +128,7 @@ input{
     border-radius: 5px;
 }
 
-
+/* get-deal end */
 
 footer{
     background-color: black;
