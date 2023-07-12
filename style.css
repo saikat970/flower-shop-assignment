@@ -35,7 +35,44 @@ header .bg-img{
 
 /* Feature style start */
 
+.feature{
+    margin: 0 30px;
+    padding: 20px;
+}
 
+.f-text{
+    text-align: center;
+}
+
+.f-text h2 {
+    font-size: 25px;
+}
+
+.f-img{
+    display: flex;
+    margin-left: 200px;
+    margin-top: 50px;
+    
+
+}
+
+.f-img-color1{
+    background-color: #FFD4CF;
+    border-radius: 60px;
+    padding: 20px;
+}
+
+.f-img-color2{
+    background-color: #F6CCAF;
+    border-radius: 60px;
+    padding: 20px;
+}
+
+.f-img-color3{
+    background-color: #F9E0A6;
+    border-radius: 60px;
+    padding: 20px;
+}
 
 
 
